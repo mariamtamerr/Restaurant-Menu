@@ -1,6 +1,6 @@
-*.js linguist-language=JavaScript
-*.css linguist-language=CSS
-*.html linguist-language=HTML
+menu.js linguist-language=JavaScript
+menu.css linguist-language=CSS
+menu.html linguist-language=HTML
 
 
 git commit -m "lala"
