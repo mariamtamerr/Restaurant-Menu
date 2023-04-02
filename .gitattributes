@@ -4,4 +4,6 @@ menu.html linguist-language=HTML
 
 
 
-git commit -m "language"
+git add .gitattributes
+git commit -m "Add language detection attributes"
+git push
