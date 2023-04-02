@@ -3,4 +3,6 @@ menu.css linguist-language=CSS
 menu.html linguist-language=HTML
 
 
-git commit -m "lala"
+git add .gitattributes
+git commit -m "Add language detection attributes"
+git push
