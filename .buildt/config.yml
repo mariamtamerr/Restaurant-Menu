@@ -1,0 +1,30 @@
+name: 1-Restaurant Menu
+id: f6fb8ac2-54b8-4dcb-8c2b-0ff765a496c7
+languages:
+  - JavaScript
+extensions:
+  - .js
+  - ._js
+  - .bones
+  - .cjs
+  - .es
+  - .es6
+  - .frag
+  - .gs
+  - .jake
+  - .javascript
+  - .jsb
+  - .jscad
+  - .jsfl
+  - .jslib
+  - .jsm
+  - .jspre
+  - .jss
+  - .jsx
+  - .mjs
+  - .njs
+  - .pac
+  - .sjs
+  - .ssjs
+  - .xsjs
+  - .xsjslib
